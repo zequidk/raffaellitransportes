@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" role="img" aria-label="Ilustração de caminhão graneleiro Raffaelli">
+  <ellipse cx="330" cy="306" rx="272" ry="14" fill="#020814" opacity=".45"/>
+  <g stroke="#FFA31A" stroke-width="5" stroke-linecap="round" opacity=".55">
+    <line x1="6" y1="170" x2="44" y2="170"/>
+    <line x1="18" y1="200" x2="52" y2="200"/>
+    <line x1="4" y1="230" x2="40" y2="230"/>
+  </g>
+  <g transform="translate(640 0) scale(-1 1)">
+    <rect x="64" y="250" width="508" height="16" rx="8" fill="#071224"/>
+    <path d="M64 252V176c0-14 6-18 18-20l68-14 46-40c6-6 11-8 18-8h38v158Z" fill="#F4F6FA"/>
+    <path d="M208 112h36v54h-78l34-48c2-4 4-6 8-6Z" fill="#7FA6FF" opacity=".85"/>
+    <rect x="64" y="206" width="190" height="10" fill="#FFA31A"/>
+    <rect x="58" y="228" width="10" height="16" rx="3" fill="#FFA31A"/>
+    <rect x="50" y="244" width="30" height="12" rx="6" fill="#7FA6FF"/>
+    <g stroke="#0A1A33" stroke-width="3" stroke-linecap="round" opacity=".28">
+      <line x1="72" y1="224" x2="102" y2="224"/>
+      <line x1="72" y1="233" x2="102" y2="233"/>
+    </g>
+    <rect x="268" y="92" width="312" height="160" rx="10" fill="#12284A" stroke="#7FA6FF" stroke-opacity=".38" stroke-width="2"/>
+    <rect x="262" y="80" width="324" height="18" rx="9" fill="#FFA31A"/>
+    <g stroke="#7FA6FF" stroke-opacity=".42" stroke-width="4" stroke-linecap="round">
+      <line x1="304" y1="110" x2="304" y2="238"/>
+      <line x1="340" y1="110" x2="340" y2="238"/>
+      <line x1="376" y1="110" x2="376" y2="238"/>
+      <line x1="412" y1="110" x2="412" y2="238"/>
+      <line x1="448" y1="110" x2="448" y2="238"/>
+      <line x1="484" y1="110" x2="484" y2="238"/>
+      <line x1="520" y1="110" x2="520" y2="238"/>
+      <line x1="556" y1="110" x2="556" y2="238"/>
+    </g>
+    <rect x="268" y="238" width="312" height="14" fill="#071224"/>
+    <g>
+      <circle cx="160" cy="270" r="34" fill="#071224"/>
+      <circle cx="160" cy="270" r="17" fill="#F4F6FA"/>
+      <circle cx="160" cy="270" r="6" fill="#7FA6FF"/>
+    </g>
+    <g>
+      <circle cx="462" cy="270" r="34" fill="#071224"/>
+      <circle cx="462" cy="270" r="17" fill="#F4F6FA"/>
+      <circle cx="462" cy="270" r="6" fill="#7FA6FF"/>
+    </g>
+    <g>
+      <circle cx="530" cy="270" r="34" fill="#071224"/>
+      <circle cx="530" cy="270" r="17" fill="#F4F6FA"/>
+      <circle cx="530" cy="270" r="6" fill="#7FA6FF"/>
+    </g>
+    <line x1="64" y1="180" x2="254" y2="180" stroke="#0A1A33" stroke-opacity=".1" stroke-width="2"/>
+  </g>
+  <g transform="translate(194 148)">
+    <rect width="44" height="44" rx="10" fill="#FFA31A"/>
+    <path d="M12 13l9 9-9 9" fill="none" stroke="#0A1A33" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 13l9 9-9 9" fill="none" stroke="#0A1A33" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
